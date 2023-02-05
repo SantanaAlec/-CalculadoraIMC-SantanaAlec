@@ -1,0 +1,9 @@
+santana.alec.calculadoraimc.test.app-core-1.5.0-0 C:\Users\Alec_\.gradle\caches\transforms-3\3a0f1f29b9b508714fdb2eeec450727f\transformed\core-1.5.0\res
+santana.alec.calculadoraimc.test.app-annotation-experimental-1.3.0-1 C:\Users\Alec_\.gradle\caches\transforms-3\b46646453c391fe6a706b89dc8b50dc4\transformed\annotation-experimental-1.3.0\res
+santana.alec.calculadoraimc.test.app-androidTest-2 C:\Users\Alec_\AndroidStudioProjects\CalculadoraIMC\app\build\generated\res\resValues\androidTest\debug
+santana.alec.calculadoraimc.test.app-androidTest-3 C:\Users\Alec_\AndroidStudioProjects\CalculadoraIMC\app\build\generated\res\rs\androidTest\debug
+santana.alec.calculadoraimc.test.app-mergeDebugAndroidTestResources-4 C:\Users\Alec_\AndroidStudioProjects\CalculadoraIMC\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+santana.alec.calculadoraimc.test.app-mergeDebugAndroidTestResources-5 C:\Users\Alec_\AndroidStudioProjects\CalculadoraIMC\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+santana.alec.calculadoraimc.test.app-merged_res-6 C:\Users\Alec_\AndroidStudioProjects\CalculadoraIMC\app\build\intermediates\merged_res\debugAndroidTest
+santana.alec.calculadoraimc.test.app-androidTest-7 C:\Users\Alec_\AndroidStudioProjects\CalculadoraIMC\app\src\androidTest\res
+santana.alec.calculadoraimc.test.app-androidTestDebug-8 C:\Users\Alec_\AndroidStudioProjects\CalculadoraIMC\app\src\androidTestDebug\res
